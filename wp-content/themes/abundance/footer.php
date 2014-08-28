@@ -82,7 +82,7 @@
 		<!-- ####### SOCKET CONTAINER ####### -->
 			<div class='container_wrap' id='socket'>
 				<div class='container'>
-					<span class='copyright'>&copy; <?php _e('Copyright','avia_framework'); ?> - <a href='<?php echo home_url('/'); ?>'><?php echo get_bloginfo('name');?></a> - <a href='http://www.kriesi.at'>Wordpress Theme by Kriesi.at</a></span>
+					<span class='copyright'>&copy; <?php _e('Copyright','avia_framework'); ?> - <a href='<?php echo home_url('/'); ?>'><?php echo get_bloginfo('name');?></a> - <a href='http://www.pavanratnakar.com'>Created by Pavan Ratnakar</a></span>
 				
 					<ul class="social_bookmarks">
 							<?php do_action('avia_add_social_icon','footer');
